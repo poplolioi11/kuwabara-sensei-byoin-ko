@@ -31,5 +31,13 @@
     "Japanese medical manuscripts",
     "manuscript transcription",
     "TEI"
+  ],
+  "doi": "10.5281/zenodo.24531840",
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.5281/zenodo.24531839",
+      "description": "Zenodo series DOI for all versions"
+    }
   ]
 }

@@ -31,4 +31,6 @@ The two independent readings used the same fixed source images. Claude produced 
 
 京都大學公告原資料保護期已滿及所藏圖像二次利用條件。新增且受著作權保護的說明與整理編排採 CC BY 4.0。 [權利說明](LICENSE.md)
 
-曲宸宇（Chu, Chen-Yu）。2026。桑原先生病因考（RB00002130） / Kuwabara Sensei byōinkō: Transcription Dataset。v0.1.0。資料集。 [固定發行](https://github.com/poplolioi11/kuwabara-sensei-byoin-ko/releases/tag/v0.1.0) · [ORCID](https://orcid.org/0009-0003-9738-6914)
+曲宸宇（Chu, Chen-Yu）。2026。桑原先生病因考（RB00002130） / Kuwabara Sensei byōinkō: Transcription Dataset。v0.1.0。資料集。 [固定發行](https://github.com/poplolioi11/kuwabara-sensei-byoin-ko/releases/tag/v0.1.0) · [ORCID](https://orcid.org/0009-0003-9738-6914) · [版本 DOI](https://doi.org/10.5281/zenodo.24531840) · [系列 DOI](https://doi.org/10.5281/zenodo.24531839)
+
+`PACKAGE-SHA256SUMS.txt` 對應固定 v0.1.0 發行包。此頁與引用檔在 GitHub `main` 補列經公開讀回核對的 Zenodo DOI。
