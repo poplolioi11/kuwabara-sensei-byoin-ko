@@ -1,0 +1,35 @@
+{
+  "cff-version": "1.2.0",
+  "type": "dataset",
+  "title": "桑原先生病因考（RB00002130） / Kuwabara Sensei byōinkō: Transcription Dataset",
+  "message": "If you use this dataset, cite this version and the source copy.",
+  "version": "0.1.0",
+  "date-released": "2026-11-25",
+  "authors": [
+    {
+      "family-names": "Chu",
+      "given-names": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914",
+      "website": "https://github.com/poplolioi11"
+    }
+  ],
+  "url": "https://github.com/poplolioi11/kuwabara-sensei-byoin-ko/releases/tag/v0.1.0",
+  "repository-code": "https://github.com/poplolioi11/kuwabara-sensei-byoin-ko",
+  "abstract": "Kuwabara Sensei byōinkō is a medical manuscript in literary Chinese, attributed to 桑原遜 in Kyoto University’s catalogue. Its main text discusses signs and causes of illnesses, opening with a section on bone heat. An appended letter addressed to 青木松伯子 preserves material on medical enquiry and correspondence. The manuscript can inform research on Japanese medical writing in literary Chinese and written exchanges among medical practitioners. This dataset uses 22 fixed images from the Fujikawa Collection, Kyoto University Main Library, record RB00002130. The main text is transcribed from 17 pages. The AI-reviewed JSON, TXT and TEI transcription records 208 unresolved comparison items from the primary review. Full human collation is outstanding.",
+  "keywords": [
+    "桑原遜",
+    "日本醫學史",
+    "漢文醫書",
+    "病因",
+    "醫學書札",
+    "古籍寫本",
+    "富士川文庫",
+    "Japanese medical history",
+    "literary Chinese",
+    "history of medical aetiology",
+    "medical correspondence",
+    "Japanese medical manuscripts",
+    "manuscript transcription",
+    "TEI"
+  ]
+}
